@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Project3 Transparent Auto Detail
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Description
+This app will allow users to look at the auto detail (cleaning, washing, and other) services. Users can look at pricing and get quotes online. Set schedules and appointments. See work and craft techniques of images and videos to make a better decision.
 
-## Available Scripts
+## User Story
+As someone who takes pride in their car, I want to be able find an auto detail shop that provides excellent services. I want to be able see price points and the different services offer. I want to be able to select my vehicle make, model, and year for a more accurate online quote. I want to be able to see an open schedule calendar to manage my time and set appointments. I want to know what kind of products used, warranty, insurance cover, and satisfactory guarantee offer. I want to see images and videos of before and after to critique the shops crafts kills to help me make a better decision.
 
-In the project directory, you can run:
 
-### `npm start`
+### Technologies
+FrontendD
+•	React
+•	JavaScript
+•	Bootstrap
+•	Responsive design
+•	Web API – CSI Automotive API 
+•	Google Calendar API
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Backend
+•	MongoDB - Mongoose
+•	Node.js
+•	Express Web Server  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+<img width="643" alt="Screen Shot 2021-03-06 at 2 02 57 PM" src="https://user-images.githubusercontent.com/70989579/110222104-bad16500-7e84-11eb-8d04-63af75cc3087.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="794" alt="Screen Shot 2021-03-08 at 9 26 57 PM" src="https://user-images.githubusercontent.com/70989579/110422927-0aff2180-8055-11eb-8972-04807fd44742.png">
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
